@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/625004109/NVIDIA_GPU_Computing_SDK/C/common'
+let g:netrw_dirhist_2='/home/625004109/test'
+let g:netrw_dirhist_3='/usr/local/cuda-4.2/doc/html'
+let g:netrw_dirhist_4='/home/625004109/gpgpu/gpgpu-sim/ispass2009-benchmarks'
+let g:netrw_dirhist_5='/home/625004109/ispass2009-benchmarks/DG/Makefiles'
+let g:netrw_dirhist_6='/home/625004109/.vim'
